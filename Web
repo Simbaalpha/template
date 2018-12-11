@@ -127,3 +127,468 @@ THIS IS MY RIGHT SIDE BAR
 
 </html>
 
+
+
+<head>
+<title>CSS Template</title>
+<link rel="Stylesheet" type="text/css"Href="Stylesheet.CSS"> </Head>
+<BODY Background="SoccerB.JPG">
+
+
+<DIV CLASS="PAGE-CONTAINER">
+
+<DIV CLASS="HEADER">
+<Img Src="SB2.Jpg" width="861" height="200">
+</DIV>
+
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="INDEX.HTML">About</A></LI>
+<LI><A HREF="Athletics.HTML">Athletics</A></LI>
+<Li><A HREF="Academics.HTML">Academics</A></LI>
+<LI><A HREF="Campus.Html">Campus Life</A></LI>
+<LI><A HREF="Summer.HTML">Summer Programs</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</UL>
+</Center>
+</DIV>
+
+
+<DIV CLASS="SIDEBAR1">
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="News.HTML">News</A></LI>
+<LI><A HREF="Admissions.HTML">Admission</A></LI>
+<LI><A HREF="Media.HTML">New Media</A></LI>
+<LI><A HREF="Calender.HTML">School Calendar</A></LI>
+<LI><A HREF="Alumni.HTML">Alumni</A></LI>
+</ul>
+<img src="leftside.jpg">
+</div>
+</div>
+
+<div class="sidebar2">
+<div class="nav">
+<ul>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI><LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</ul>
+<img src="rightside.Jpg">
+</div>
+</div>
+<DIV CLASS="CONTENT">
+THIS IS MY CONTENT AREA
+</DIV>
+
+<DIV CLASS="FOOTER">
+<img src="footer.jpg">
+</DIV>
+
+<Center>
+</DIV>
+</body>
+</html>
+
+<html>
+<head>
+<title>CSS Template</title>
+<link rel="Stylesheet" type="text/css"Href="Stylesheet.CSS"> </Head>
+<BODY Background="SoccerB.JPG">
+
+
+<DIV CLASS="PAGE-CONTAINER">
+
+<DIV CLASS="HEADER">
+<Img Src="SB2.Jpg" width="861" height="200">
+</DIV>
+
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="INDEX.HTML">About</A></LI>
+<LI><A HREF="Athletics.HTML">Athletics</A></LI>
+<Li><A HREF="Academics.HTML">Academics</A></LI>
+<LI><A HREF="Campus.Html">Campus Life</A></LI>
+<LI><A HREF="Summer.HTML">Summer Programs</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</UL>
+</Center>
+</DIV>
+
+
+<DIV CLASS="SIDEBAR1">
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="News.HTML">News</A></LI>
+<LI><A HREF="Admissions.HTML">Admission</A></LI>
+<LI><A HREF="Media.HTML">New Media</A></LI>
+<LI><A HREF="Calender.HTML">School Calendar</A></LI>
+<LI><A HREF="Alumni.HTML">Alumni</A></LI>
+</ul>
+<img src="leftside.jpg">
+</div>
+</div>
+
+<div class="sidebar2">
+<div class="nav">
+<ul>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI><LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</ul>
+<img src="rightside.Jpg">
+</div>
+</div>
+
+<DIV CLASS="CONTENT">
+<div style="width:100%;">
+<table cellspacing="0" BGCOLOR="white" cellpadding="0" border="0" style="width:100%;">
+<tbody>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" style="float: right; margin-left:15px, margin-bottom:2px;">
+<tbody>
+</table>
+<div class="cchtxt">
+<div>
+<div style="width:100%;">
+<table cellspacing="0" BGCOLOR="white" cellpadding="0" border="0" style="width:100%;">
+<tbody>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" style="float: right; margin-left:15px, margin-bottom:2px;">
+<tbody>
+</table>
+<img src="soccerp.jpg" Align="left" Align="right"> </div>
+<div class="cchtxt"> The Vermont Academy soccer program is dedicated to the highest ideals of teamwork and sportsmanship. Our program is premised on the belief that athletic competition is an invaluable component in the development of self-confident, motivated young adults, dedicated to achieving team related goals both in and out of the classroom. The program works to bring out the best in each player and, in turn, bring out the best in the team. Wins and losses are recorded on the scoreboard, but our victories are determined by what we control: our quality of play and the pursuit of personal and team excellence.</div>
+<center><div> <img src="coach.gif"> </div></center>
+<div> <img src="foorter3.jpg"> </div>
+
+</DIV>
+</td>
+</tr>
+</Tbody>
+</table>
+</DIV>
+</body>
+</html>
+
+
+
+<head>
+<title>CSS Template</title>
+<link rel="Stylesheet" type="text/css"Href="Stylesheet.CSS"> </Head>
+<BODY Background="SoccerB.JPG">
+
+
+<DIV CLASS="PAGE-CONTAINER">
+
+<DIV CLASS="HEADER">
+<Img Src="SB2.Jpg" width="861" height="200">
+</DIV>
+
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="INDEX.HTML">About</A></LI>
+<LI><A HREF="Athletics.HTML">Athletics</A></LI>
+<Li><A HREF="Academics.HTML">Academics</A></LI>
+<LI><A HREF="Campus.Html">Campus Life</A></LI>
+<LI><A HREF="Summer.HTML">Summer Programs</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</UL>
+</Center>
+</DIV>
+
+
+<DIV CLASS="SIDEBAR1">
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="News.HTML">News</A></LI>
+<LI><A HREF="Admissions.HTML">Admission</A></LI>
+<LI><A HREF="Media.HTML">New Media</A></LI>
+<LI><A HREF="Calender.HTML">School Calendar</A></LI>
+<LI><A HREF="Alumni.HTML">Alumni</A></LI>
+</ul>
+<img src="leftside.jpg">
+</div>
+</div>
+
+<div class="sidebar2">
+<div class="nav">
+<ul>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI><LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</ul>
+<img src="rightside.Jpg">
+</div>
+</div>
+<DIV CLASS="CONTENT">
+THIS IS MY CONTENT AREA
+</DIV>
+
+<DIV CLASS="FOOTER">
+<img src="footer.jpg">
+</DIV>
+
+<Center>
+</DIV>
+</body>
+</html>
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>CSS Template</title>
+<link rel="Stylesheet" type="text/css"Href="Stylesheet.CSS"> </Head>
+<BODY Background="SoccerB.JPG">
+
+
+<DIV CLASS="PAGE-CONTAINER">
+
+<DIV CLASS="HEADER">
+<Img Src="SB2.Jpg" width="861" height="200">
+</DIV>
+
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="INDEX.HTML">About</A></LI>
+<LI><A HREF="Athletics.HTML">Athletics</A></LI>
+<Li><A HREF="Academics.HTML">Academics</A></LI>
+<LI><A HREF="Campus.Html">Campus Life</A></LI>
+<LI><A HREF="Summer.HTML">Summer Programs</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</UL>
+</Center>
+</DIV>
+
+
+<DIV CLASS="SIDEBAR1">
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="News.HTML">News</A></LI>
+<LI><A HREF="Admissions.HTML">Admission</A></LI>
+<LI><A HREF="Media.HTML">New Media</A></LI>
+<LI><A HREF="Calender.HTML">School Calendar</A></LI>
+<LI><A HREF="Alumni.HTML">Alumni</A></LI>
+</ul>
+<img src="leftside.jpg">
+</div>
+</div>
+
+<div class="sidebar2">
+<div class="nav">
+<ul>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI><LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</ul>
+<img src="rightside.Jpg">
+</div>
+</div>
+
+
+<DIV CLASS="CONTENT">
+<div style="width:100%;">
+<table cellspacing="0" BGCOLOR="white" cellpadding="0" border="0" style="width:100%;">
+<tbody>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" style="float: right; margin-left:15px, margin-bottom:2px;">
+<tbody>
+</table>
+<div class="cchtxt">
+<div> <img src="News.Jpg" Align="left" Align="right"> </Div>
+</DIV>
+</td>
+</tr>
+</Tbody>
+</table>
+</DIV>
+</body>
+</html>
+
+
+<html>
+<head>
+<title>CSS Template</title>
+<link rel="Stylesheet" type="text/css"Href="Stylesheet.CSS"> </Head>
+<BODY Background="SoccerB.JPG">
+
+
+<DIV CLASS="PAGE-CONTAINER">
+
+<DIV CLASS="HEADER">
+<Img Src="SB2.Jpg" width="861" height="200">
+</DIV>
+
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="INDEX.HTML">About</A></LI>
+<LI><A HREF="Athletics.HTML">Athletics</A></LI>
+<Li><A HREF="Academics.HTML">Academics</A></LI>
+<LI><A HREF="Campus.Html">Campus Life</A></LI>
+<LI><A HREF="Summer.HTML">Summer Programs</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</UL>
+</Center>
+</DIV>
+
+
+<DIV CLASS="SIDEBAR1">
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="News.HTML">News</A></LI>
+<LI><A HREF="Admissions.HTML">Admission</A></LI>
+<LI><A HREF="Media.HTML">New Media</A></LI>
+<LI><A HREF="Calender.HTML">School Calendar</A></LI>
+<LI><A HREF="Alumni.HTML">Alumni</A></LI>
+</ul>
+<img src="leftside.jpg">
+</div>
+</div>
+
+<div class="sidebar2">
+<div class="nav">
+<ul>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI><LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</ul>
+<img src="rightside.Jpg">
+</div>
+</div>
+
+
+<DIV CLASS="CONTENT">
+<div style="width:100%;">
+<table cellspacing="0" BGCOLOR="white" cellpadding="0" border="0" style="width:100%;">
+<tbody>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" style="float: right; margin-left:15px, margin-bottom:2px;">
+<tbody>
+</table>
+<img src="CampusB.jpg">
+<div class="cchtxt">
+<div> <img src="lifepic.Jpg" Align="left" Align="right"> </Div>The hallmark of Saint James School�s academic program is our core curriculum, which is designed to provide a sound foundation in all disciplines and to prepare our students for further study at a four-year college. Both rigorous and supportive, the academic program stimulates and challenges students to develop their strengths and to cultivate and improve skills in other disciplines. All students are grounded in the basic skills and content of traditional liberal arts and sciences. Advanced Placement courses are offered for able and interested students who wish to pursue subjects in greater depth. Electives are offered to upper-form students for enrichment and the exploration of new interests.
+
+To foster the self-discipline of effective time.The hallmark of Saint James School�s academic program is our core curriculum, which is designed to provide a sound foundation in all disciplines and to prepare our students for further study at a four-year college. Both rigorous and supportive, the academic program stimulates and challenges students to develop their strengths and to cultivate and improve skills in other disciplines. All students are grounded in the basic skills and content of traditional liberal arts and sciences. Advanced Placement courses are offered for able and interested students who wish to pursue subjects in greater depth. Electives are offered to upper-form students for enrichment and the exploration of new interests.
+
+To foster the self-discipline of effective time.The hallmark of Saint James School�s academic program is our core curriculum, which is designed to provide a sound foundation in all disciplines and to prepare our students for further study at a four-year college. Both rigorous and supportive, the academic program stimulates and challenges students to develop their strengths and to cultivate and improve skills in other disciplines. All students are grounded in the basic skills and content of traditional liberal arts and sciences.
+
+</DIV>
+
+</td>
+</tr>
+</Tbody>
+</table>
+</DIV>
+</body>
+</html>
+
+
+<html>
+<head>
+<title>CSS Template</title>
+<link rel="Stylesheet" type="text/css"Href="Stylesheet.CSS"> </Head>
+<BODY Background="SoccerB.JPG">
+
+
+<DIV CLASS="PAGE-CONTAINER">
+
+<DIV CLASS="HEADER">
+<Img Src="SB2.Jpg" width="861" height="200">
+</DIV>
+
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="INDEX.HTML">About</A></LI>
+<LI><A HREF="Athletics.HTML">Athletics</A></LI>
+<Li><A HREF="Academics.HTML">Academics</A></LI>
+<LI><A HREF="Campus.Html">Campus Life</A></LI>
+<LI><A HREF="Summer.HTML">Summer Programs</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</UL>
+</Center>
+</DIV>
+
+
+<DIV CLASS="SIDEBAR1">
+<DIV CLASS="NAV">
+<Center>
+<UL>
+<LI><A HREF="News.HTML">News</A></LI>
+<LI><A HREF="Admissions.HTML">Admission</A></LI>
+<LI><A HREF="Media.HTML">New Media</A></LI>
+<LI><A HREF="Calender.HTML">School Calendar</A></LI>
+<LI><A HREF="Alumni.HTML">Alumni</A></LI>
+</ul>
+<img src="leftside.jpg">
+</div>
+</div>
+
+<div class="sidebar2">
+<div class="nav">
+<ul>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI><LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+<LI><A HREF="Index.HTML">Something</A></LI>
+</ul>
+<img src="rightside.Jpg">
+</div>
+</div>
+
+<DIV CLASS="CONTENT">
+<div style="width:100%;">
+<table cellspacing="0" BGCOLOR="white" cellpadding="0" border="0" style="width:100%;">
+<tbody>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" style="float: right; margin-left:15px, margin-bottom:2px;">
+<tbody>
+</table>
+<div class="cchtxt">
+<div>
+Thank you for your interest in Something!  We are very proud to be the country�s oldest Episcopal boarding school founded in 1842 by the leaders of the Oxford Movement, who were committed to the formation of character in community. Today, we remain faithful to their initial vision of intellectual, physical, spiritual, and moral development of students.
+Located in the serene rolling farmlands of western Maryland, an hour drive from both Washington, D.C. and Baltimore, Maryland, Saint James is situated on a 672-acre campus just a few miles from the famous Civil War Antietam Battlefield.<br> <br>
+I encourage you to explore our website to find out more about our academic program, highlighted by our challenging college preparatory core-curriculum, our athletic program including 31 athletic teams competing in 16 interscholastic sports, our strong, yet personalized fine arts program, our active residential life program, and the school�s religious life.  Even though our strong, well-balanced programs are more often found in larger schools, we believe that young students are raised best in close relationship with each other and with adults who care for them. <br> <br> We, therefore, are committed to our enduring character as a small, coeducational boarding school of 215 students from 17 states and 8 foreign countries.
+To find out more about our wonderful school or to see our beautiful campus in person, please fill out the on-line inquiry form or call our office at 301.733.9330 to schedule a campus visit. <br><br> I look forward to working with you through the admission process and to welcoming you to Saint James!
+Sincerely,
+<div> <img src="Signature.jpg"> </div>
+Shu Keyaka
+<p>Deans Of Admissions</P>
+<div> <img src="foorter2.jpg"> </div>
+</DIV>
+</td>
+</tr>
+</Tbody>
+</table>
+</DIV>
+</body>
+</html>
+
+
