@@ -1,0 +1,129 @@
+<html>
+<head>
+<title>Table</title>
+</head>
+
+<body>
+
+body{
+    background-image:url("SoccerB.JPG");
+    background-position:100%;
+    background-repeat:repeat;
+    }
+.page-container{
+    margin-left:50px;
+    margin-top:50px;
+    width:861px;
+    height:800px;
+    }
+.header{
+    width:861px;
+    height:200px;
+    background-image:url('SB2.Jpg');
+    color:black;
+    text-align:center;
+    }
+.nav{
+    background-color:Black;
+    color:#FFBF00;}
+.nav ul{a
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    }
+.nav li{
+    float:left;
+    }
+.nav a:link,a:visited{
+    display:block;
+    width:135.5px;
+    font-weight:bold;
+    color:white;
+    background-color:black;
+    text-align:center;
+    padding:4px;
+    text-decoration:none;
+    text-transform:uppercase;
+    }
+.nav a:hover,a:active{
+    background-color:#000066;
+    }
+.content{
+    width:615px;
+    height:630px;
+    background-color:white;
+    color:black#000063;
+    float:left;
+    text-align:center;
+    opacity:1;
+    filter:alpha(opacity=90);
+    }
+.sidebar1{
+    div class;Nav
+    width:123px;
+    height:630px;
+    background-color:#99CC66;
+    color:black;
+    float:left;
+    text-align:center;
+    }
+    
+</body>
+    
+<DIV CLASS="NAV">
+
+<Center>
+
+<UL>
+
+<LI><A HREF="INDEX.HTML">About</A></LI>
+
+<LI><A HREF="INDEX.HTML">Athletics</A></LI>
+
+<Li><A HREF="INDEX.HTML">Academics</A></LI>
+
+<LI><A HREF="INDEX.HTML">Campus Life</A></LI>
+
+<LI><A HREF="INDEX.HTML">News</A></LI>
+
+<LI><A HREF="INDEX.HTML">Admission</A></LI>
+
+</UL>
+
+</Center>
+
+</DIV>
+
+<DIV CLASS="SIDEBAR1">
+
+THIS IS THE LEFT SIDEBAR
+
+</DIV>
+
+<DIV CLASS="CONTENT">
+
+THIS IS MY CONTENT AREA
+
+</DIV>
+
+<DIV CLASS="SIDEBAR2">
+
+THIS IS MY RIGHT SIDE BAR
+
+</DIV>
+
+<DIV CLASS="FOOTER">
+
+<img src="footer.jpg">
+
+</DIV>
+
+<Center>
+
+</DIV>
+
+</body>
+
+</html>
+
